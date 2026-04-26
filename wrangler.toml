@@ -1,4 +1,4 @@
-name = # wrangler.toml
+# wrangler.toml
 name = 'tgbox'
 main = "src/cf-entry.ts"
 compatibility_date = "2024-12-30"
